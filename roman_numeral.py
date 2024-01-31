@@ -36,7 +36,7 @@ def roman_to_int(roman):
     return result
 
 # Test the function
-inp = input("Please enter the Roman numerals or the number you want to convert: ")
+#inp = input("Please enter the Roman numerals or the number you want to convert: ")
 
 try:
     #Checking to see if the input is a number
