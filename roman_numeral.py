@@ -38,15 +38,15 @@ def roman_to_int(roman):
 # Test the function
 #inp = input("Please enter the Roman numerals or the number you want to convert: ")
 
-try:
-    #Checking to see if the input is a number
-    inp = int(inp)
-except:
-    #If it was not a number we assume a string
-    inp = str(inp.upper())
-finally:
-    if type(inp) == str:
-         print(roman_to_int(inp))
-    else:
-        print(int_to_roman(inp))
+#try:
+#    #Checking to see if the input is a number
+#    inp = int(inp)
+#except:
+#    #If it was not a number we assume a string
+#    inp = str(inp.upper())
+#finally:
+#    if type(inp) == str:
+#         print(roman_to_int(inp))
+#    else:
+#        print(int_to_roman(inp))
 
