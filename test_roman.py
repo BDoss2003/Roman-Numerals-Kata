@@ -5,6 +5,8 @@ class TestRomanConversion(unittest.TestCase):
     def test_int_to_roman(self):
         self.assertEqual(int_to_roman(11), 'XI')
         self.assertEqual(int_to_roman(123), 'CXXIII')
+        print(int_to_roman(11))
+        print(int_to_roman(123))
         # Add more test cases as needed
 
     def test_roman_to_int(self):
