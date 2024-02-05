@@ -3,6 +3,6 @@
 
 This was a difficult assignment for me.  Not becuase the coding was difficult.  That part was easy.  I just read the kata description, made a list of the rules, and converted that to python logic.  However, I am so used to coding first testing second.  To create the test and back into the coding was a good deal diffrent.  Of coursethe testing was easy but to think about the process in reversse was a challenge.  However, I do see the benefit of coding to the test rather than testing to the code.
 
-**Brian Doss**
-1028621
-CIDM 6330
+**Brian Doss**  
+1028621  
+CIDM 6330  
